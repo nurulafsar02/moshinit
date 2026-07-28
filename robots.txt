@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moshinit.netlify.app/sitemap.xml
